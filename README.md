@@ -1,2 +1,2 @@
 # document-dump
-A dump of miscellaneous documents, particularly those regarding academic journal/s and seminar/s
+A dump of miscellaneous documents, particularly those regarding academic journals and seminars
